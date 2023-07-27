@@ -34,7 +34,7 @@ This script is designed to streamline the process of managing artwork in Adobe I
 2. Go to "File" > "Scripts" > "This new Script". The script will run automatically, moving items to new layers and removing old, empty layers.
 As a precaution, ensure you have a backup of your Illustrator document before running the script, especially for more complex projects.
 
-[Download archive]: https://github.com/abdul-karim-mia/Find-same-color-path-and-make-compound-path-illustrator-script/archive/refs/heads/main.zip
+[Download archive]: https://github.com/abdul-karim-mia/Organize-and-Move-Items-by-Artboards-to-individual-layer/archive/refs/heads/main.zip
 
 ## 💸 Donate
 You can support my work on new scripts via [PayPal] .  
