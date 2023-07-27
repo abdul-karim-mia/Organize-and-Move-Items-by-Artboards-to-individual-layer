@@ -1,6 +1,6 @@
 #### Description:
 This script is designed to streamline the process of managing artwork in Adobe Illustrator documents with multiple artboards. When working on complex projects, designers often create separate artboards to organize different elements. However, managing items across numerous artboards can be time-consuming. This script automates the task by moving items from each individual artboard to new layers with the corresponding artboard name. Furthermore, it removes any old layers that are left empty after the items have been moved.
-
+[![IMAGE ALT TEXT](https://img.youtube.com/vi/j7vs7q8it1E/mqdefault.jpg)](https://youtu.be/j7vs7q8it1E "Find same color path and make compound path illustrator script")
 #### How the Script Works:
 
 1. The script starts by identifying the active Illustrator document and collecting all its artboards.
@@ -45,4 +45,4 @@ You can support my work on new scripts via [PayPal] .
   <img width="147" height="40" src="https://i.ibb.co/Z8Wd8Sn/paypal-badge.png" >
 </a>
 
-[![IMAGE ALT TEXT](https://img.youtube.com/vi/QgEM2E0ZD-4/mqdefault.jpg)](https://youtu.be/QgEM2E0ZD-4 "Find same color path and make compound path illustrator script")
+
